@@ -325,6 +325,7 @@
                 android:layout_gravity="center"
                 android:layout_weight="1"
                 android:gravity="center"
+                android:onClick="solve"
                 android:text="="
                 android:textColor="@color/white"
                 android:textSize="10pt" />
